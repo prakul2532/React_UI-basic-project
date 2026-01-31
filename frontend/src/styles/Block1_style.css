@@ -29,7 +29,7 @@
     backdrop-filter: blur(20px);
     background-color: rgb(57, 154, 128);
     width: 400px;
-    height: 50px;
+    height: 70px;
     display: flex;
     flex-direction: row;
     padding: 8px 20px 8px 20px;
