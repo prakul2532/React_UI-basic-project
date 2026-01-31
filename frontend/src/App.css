@@ -1,0 +1,24 @@
+#main_box{
+    backdrop-filter: blur(20px);
+    height: 200px;
+    margin: 20px;
+    margin-left: 8px;
+    margin-top: 150px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.base_text{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(0, 162, 255);
+    font-family: cursive;
+    background-color: rgb(120, 221, 184);
+    width: 300px;
+    border-radius: 34px;
+}
+.Blocks_Container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}

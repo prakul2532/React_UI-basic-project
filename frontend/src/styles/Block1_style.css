@@ -1,0 +1,46 @@
+#Box{
+    backdrop-filter: blur(30px);
+    display: grid;
+    justify-content: center;
+    grid-column: auto;
+    width: 500px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 38px;
+    margin: 20px 20px 20px 20px;
+}
+.heading{
+    align-self: center;
+    text-align: center;
+    padding: 5px 10px 10px 10px;
+    margin: 4px;
+    font-size: 30px;
+    color: rgb(142, 120, 6);
+    border: 2px solid darkturquoise;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+.main_video{
+    align-self: center;
+    margin: 4px 40px 8px 40px;
+    border: 4px solid rgba(41, 168, 193, 0.917);
+}
+.footer_box{
+    backdrop-filter: blur(20px);
+    background-color: rgb(57, 154, 128);
+    width: 400px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 20px 8px 20px;
+    border: 2px solid darkturquoise;
+    border-radius: 7px;
+}
+.footer_closing{
+    padding: 4px;
+    font-size: 18px;
+}
+#end_statement{
+    font-size: 25px;
+    padding: 7px;
+}
