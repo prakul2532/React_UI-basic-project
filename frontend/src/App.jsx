@@ -25,7 +25,7 @@ function App() {
     <div id="main_box">
       <p className="base_text">For more such interesting contents</p>
       <p className="base_text">Follow me:- <a href="https://www.instagram.com/craftoonments_23/"> Instagram </a></p>
-      <p className="base_text">Github repository :- <a href=""> <b>💻</b> </a></p>
+      <p className="base_text">Github repository :- <a href="https://github.com/prakul2532/React_UI-basic-project.git"> <b>💻</b> </a></p>
     </div>
   </>
   )
